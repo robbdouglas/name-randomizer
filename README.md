@@ -8,4 +8,4 @@ Kleine Webanwendung, die es ermöglicht, aus vorher definierten Namen einen zuf�
 
 Die Namen können hierbei in der script.js Datei angepasst werden.
 
-Hier sind aktuell die Namen aller Studentinnen und Studenten unseren Web Development Kurses eingepflegt.
+Hier sind aktuell die Namen aller Studentinnen und Studenten unseres Web Development Kurses eingepflegt.
