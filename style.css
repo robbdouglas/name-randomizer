@@ -1,0 +1,54 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Styling des Headers */
+header {
+  height: 30vh;
+  /* border: 2px solid red; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("./images/25Kinderuni-www.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+/* Styling der H1-Überschrift */
+header h1 {
+  text-align: center;
+  color: antiquewhite;
+  font-size: 72px;
+}
+
+
+.container {
+  text-align: center;
+  min-height: 45vh;
+  border: 2px solid green;
+  padding-top: 25vh;
+}
+
+h1 {
+  font-size: 24px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#ausgabe {
+  margin-top: 20px;
+  font-size: 36px;
+  color: black;
+}
