@@ -1,12 +1,15 @@
-// Liste der Namen
-var namen = ["Kai", "Robb", "Anna", "Melle", "Melisa"];
+// Namen aller Studierenden
+var namen = ["Kai", "Robb", "Anna", "Melle", "Melisa", "Janis", "Jan", "Sven", "Axel H.", "Axel N.", "Mehmet", "Atef", "Marvin", "Emanuela", "Miriam", "Oliver", "Hamze", "Bita", "Katharina", "Norbert", "Sebastian", "Laila"];
+
 // Array für bereits gezogene Namen
 var gezogeneNamen = [];
 
 // Würfel-Button
 var wuerfelnButton = document.getElementById("wuerfeln-btn");
+
 // Zurücksetzen-Button
 var zuruecksetzenButton = document.getElementById("zuruecksetzen-btn");
+
 // Ausgabefelder für den zuletzt und aktuell gezogenen Namen
 var zuletztGezogenFeld = document.getElementById("zuletzt-gezogen");
 var aktuellGezogenFeld = document.getElementById("aktuell-gezogen");
