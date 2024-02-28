@@ -1,11 +1,6 @@
 # Name Randomizer
 
-## [Zur Seite](https://robbdouglas.github.io/name-randomizer/)
+## Description
 
-## Beschreibung: 
-
-Kleine Webanwendung, die es ermöglicht, aus vorher definierten Namen einen zufälligen Namen zu ziehen, wobei kein Name zweimal gezogen werden kann.
-
-Die Namen können hierbei in der script.js Datei angepasst werden.
-
-Hier sind aktuell die Namen aller Studentinnen und Studenten unseres Web Development Kurses eingepflegt.
+Super simple frontend project with HTML, CSS and JavaScript. Originally coded for DCI classes. 
+The names of all class members are inserted in .js file. You will get a random name onclick. None can be drawn twice. Draw class members until none is left. Reset button available.
